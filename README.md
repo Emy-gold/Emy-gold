@@ -47,7 +47,3 @@ Nature scenes (mental clarity and travel)
 Inspirational quotes (motivation)
 
 Book stack or sketchpad (learning and creativity)
-
-💬 Sentence to Share on Social Media
-"I’m building a life where creativity, growth, and authenticity guide me to become the developer and person I aspire to be." ✨ #VisionBoard #My2025Vision
-
