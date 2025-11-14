@@ -1,49 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Emy
 
-🌟 My Vision Board Template
-🔮 Who I Want to Become
-A confident and creative front-end developer
+I'm a passionate **Java developer** exploring **full-stack development** with **React** and aiming to master **Spring Boot**.  
 
-A thoughtful, balanced person who values mental well-being
+💻 **What I do:**  
+- Build web apps with **Java, React, and MySQL**  
+- Focus on clean, responsive, and functional designs  
 
-A life-long learner who shares knowledge with others
+🌱 **Future goals:**  
+- Mobile app development  
+- Advanced Spring Boot and backend systems  
 
-🎯 My Goals
-Master JavaScript and Laravel by the end of the year
+🚀 **Projects:**  
+Check out my repos.
 
-Launch my personal portfolio website
-
-Contribute to open-source projects or build one
-
-Read 10 books on self-growth and creativity
-
-Wake up early and maintain a healthy routine
-
-💛 My Core Values
-Authenticity – Stay true to myself and my journey
-
-Creativity – Build with imagination and purpose
-
-Growth – Learn continuously and embrace challenges
-
-Kindness – Be gentle with myself and others
-
-🌍 My Ideal Life
-Working remotely with freedom and flexibility
-
-Designing impactful web experiences
-
-Traveling and exploring new cultures
-
-Collaborating with positive, inspiring people
-
-📸 Visuals You Could Include
-Laptop with code open (symbol of career goals)
-
-Calm workspace (balance and productivity)
-
-Nature scenes (mental clarity and travel)
-
-Inspirational quotes (motivation)
-
-Book stack or sketchpad (learning and creativity)
+📫 **Connect with me:**  
+- Email: imanelgarate@gmail.com  
+- LinkedIn: (https://www.linkedin.com/in/iman-el-garate-520662277/)
