@@ -3,7 +3,7 @@
 I'm a passionate **Java developer** exploring **full-stack development** with **React** and aiming to master **Spring Boot**.  
 
 💻 **What I do:**  
-- Build web apps with **Java, React, and MySQL**  
+- Build web apps with **Java, Angular, and MySQL**  
 - Focus on clean, responsive, and functional designs  
 
 🌱 **Future goals:**  
