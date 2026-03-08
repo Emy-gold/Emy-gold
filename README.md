@@ -8,7 +8,7 @@
 
 💻 Passionate **Java Developer** exploring full-stack development
 🎓 Developer student constantly building real-world projects
-⚡ Currently learning **React and advanced Spring Boot**
+⚡ Currently learning **React, DevOps, and advanced Spring Boot**
 🧠 Focused on improving **problem solving and backend architecture**
 
 ---
@@ -34,11 +34,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge\&logo=xampp\&logoColor=white)
 
 ---
 
@@ -66,8 +71,8 @@
 
 ⚡ Advanced **Spring Boot**
 ⚛️ **React**
-🐳 **Docker & DevOps basics**
-☁️ Cloud technologies
+🐳 **Docker & DevOps**
+☁️ **AWS Cloud**
 
 ---
 
@@ -82,7 +87,7 @@ Projects include:
 * Full-stack applications using **Angular + Spring Boot**
 * Backend REST APIs
 * Database-driven applications
-* Modern responsive UI with **Tailwind CSS**
+* Responsive UI using **Tailwind CSS**
 
 ---
 
