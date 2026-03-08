@@ -49,9 +49,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emy-gold\&show_icons=true\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Emy-gold&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emy-gold\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emy-gold&theme=tokyonight)
 
 ---
 
@@ -70,7 +70,7 @@
 ## 🌱 Currently Learning
 
 ⚡ Advanced **Spring Boot**
-⚛️ **React**
+⚛️ **Angular**
 🐳 **Docker & DevOps**
 ☁️ **AWS Cloud**
 
