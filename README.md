@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=730896,9d4edd,c77dff,e0aaff&height=200&section=header&text=Hi%20There,%20I'm%20Emy%20👋&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20%26%20Python%20Developer%20•%20Full%20Stack%20Learner%20•%20ML%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=730896,9d4edd,c77dff,e0aaff&height=200&section=header&text=Hi%20There%2C%20I%27m%20Emy%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20%26%20Python%20Developer%20%E2%80%A2%20Full%20Stack%20Learner%20%E2%80%A2%20ML%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Java+%26+Python+Developer;Full+Stack+Learner;Spring+Boot+Enthusiast;Machine+Learning+Explorer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
