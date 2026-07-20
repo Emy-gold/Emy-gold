@@ -166,34 +166,15 @@ AI Powered Applications
 
 ---
 
-# 📊 GitHub Statistics
-
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emy-gold&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emy-gold&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=8"/>
-
-</div>
-
-
-<br/>
-
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emy-gold&amp;theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Emy-gold&theme=tokyonight&hide_border=true" width="70%"/>
 
-</div>
+<br/><br/>
 
-
-<br/>
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emy-gold&amp;theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emy-gold&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
