@@ -125,8 +125,7 @@ Spring Boot
 Angular
 Docker
 Kubernetes
-MySQL
-Machine Learning
+Postgres
 ```
 
 ### Features
@@ -134,7 +133,6 @@ Machine Learning
 - 🔐 JWT Authentication
 - 👥 Role-based authorization
 - 🏋️ Fitness management
-- 🤖 AI recommendations
 - 📊 Progress tracking
 - 🐳 Containerized deployment
 
