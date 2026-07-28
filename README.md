@@ -196,8 +196,6 @@ goal: "Building scalable applications powered by intelligent systems 💫"
 
 </div>
 
-> ⚠️ Cette animation ne s'affichera qu'une fois le workflow GitHub Actions activé (voir `snake.yml` fourni à côté). Il régénère le serpent chaque jour à partir de ton vrai graphique de contributions.
-
 <br/>
 
 ---
