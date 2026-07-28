@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Emy-gold&theme=tokyonight&hide_border=true&v=2" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Emy-gold&theme=tokyonight&hide_border=true&cache_seconds=86400" width="70%"/>
 
 <br/>
 
