@@ -170,7 +170,7 @@ AI Powered Applications
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Emy-gold&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Emy-gold&show_icons=true&theme=tokyonight" width="70%"/>
 
 <br/><br/>
 
