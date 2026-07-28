@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=gradient&amp;text=Iman%20EL%20GARAT&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20AI%20and%20Big%20Data%20Engineer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Emy-gold&theme=tokyonight)](https://git.io/streak-stats)
 
 <br/>
 
