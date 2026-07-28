@@ -50,9 +50,19 @@ goal: "Building scalable applications powered by intelligent systems 💫"
 > 🌷 *I love turning messy ideas into clean, working code — one commit at a time.*
 > Currently deep in backend land, sprinkling a bit of AI magic on top. ✨
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=B98CCE&center=true&vCenter=true&width=600&lines=%E2%98%95+fueled+by+coffee+and+curiosity;%F0%9F%90%9B+turning+bugs+into+features+since+day+1;%F0%9F%8C%B8+coding+with+a+little+bit+of+sparkle"/>
+
+</div>
+
 <br/>
 
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=40&section=header&animation=twinkling"/>
+</div>
 
 ## 🎀 Tech Stack
 
@@ -158,7 +168,7 @@ goal: "Building scalable applications powered by intelligent systems 💫"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Emy-gold&show_icons=true&theme=tokyonight&border_radius=10" width="70%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Emy-gold&show_icons=true&theme=tokyonight&border_radius=10" width="70%"/>
 
 <br/><br/>
 
@@ -169,6 +179,24 @@ goal: "Building scalable applications powered by intelligent systems 💫"
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emy-gold&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%"/>
 
 </div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emy-gold/Emy-gold/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emy-gold/Emy-gold/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Emy-gold/Emy-gold/output/github-snake.svg" width="90%"/>
+</picture>
+
+</div>
+
+> ⚠️ Cette animation ne s'affichera qu'une fois le workflow GitHub Actions activé (voir `snake.yml` fourni à côté). Il régénère le serpent chaque jour à partir de ton vrai graphique de contributions.
 
 <br/>
 
