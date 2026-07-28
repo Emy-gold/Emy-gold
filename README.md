@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=FFEED6,FFF6A1,FF9A86&text=Hi%20there,%20I'm%20Iman!&fontSize=38&fontColor=8B4A3A&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=FFEED6,FFF6A1,FAE251,FF9A86&text=Hi%20there,%20I'm%20Iman!&fontSize=38&fontColor=8B4A3A&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9A86&center=true&vCenter=true&width=750&lines=%F0%9F%8C%B1+Java+Developer;%E2%98%95+Spring+Boot+Enthusiast;%E2%9A%99%EF%B8%8F+Backend+Engineer;%F0%9F%A4%96+AI+%26+Big+Data+Student;%E2%9C%A8+Building+Modern+Applications;%F0%9F%93%9A+Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FAE251&center=true&vCenter=true&width=750&lines=%F0%9F%8C%B1+Java+Developer;%E2%98%95+Spring+Boot+Enthusiast;%E2%9A%99%EF%B8%8F+Backend+Engineer;%F0%9F%A4%96+AI+%26+Big+Data+Student;%E2%9C%A8+Building+Modern+Applications;%F0%9F%93%9A+Always+Learning"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Emy-gold&style=for-the-badge&color=FF9A86&label=PROFILE+VIEWS+%F0%9F%91%80"/>
+<img src="https://komarev.com/ghpvc/?username=Emy-gold&style=for-the-badge&color=FAE251&label=PROFILE+VIEWS+%F0%9F%91%80"/>
 
 </div>
 
