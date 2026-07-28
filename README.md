@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Emy-gold&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Emy-gold&theme=tokyonight&hide_border=true&v=2" width="70%"/>
 
 <br/>
 
