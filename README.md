@@ -150,7 +150,7 @@
 
 </div>
 
-<div align="center"><sub>🌸 the line graph up top is the one plotting commits against days — it's back in, just know its shared free server occasionally gets rate-capped by its host and errors out for everyone (like it did with that `402`) until its quota resets; the calendar underneath is the one that never goes down, so there's always something showing 🌸</sub></div>
+<div align="center"><sub>🌸 my favorite anime girls are Maomao and Aniya,Yes i'm an anime lover.🌸</sub></div>
 
 <br/>
 
