@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;height=210&amp;color=0:FFE5EC,50:E8C7E6,100:C9A9DE&amp;text=hi,%20i'm%20emy!&amp;fontSize=46&amp;fontColor=5A3E5C&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=backend%20dev%20%E2%9C%A8%20ai%20%26%20big%20data%20student%20%E2%9C%A8%20serial%20debugger&amp;descAlignY=58&amp;descSize=16&amp;descColor=5A3E5C"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&amp;height=210&amp;color=0:FFE5EC,50:E8C7E6,100:C9A9DE&amp;text=hi,%20i'm%20emy!&amp;fontSize=46&amp;fontColor=5A3E5C&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=backend%20dev%20%E2%9C%A8%20ai%20plus%20big%20data%20student%20%E2%9C%A8%20serial%20debugger&amp;descAlignY=58&amp;descSize=16&amp;descColor=5A3E5C"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&amp;size=26&amp;duration=3200&amp;pause=1100&amp;color=C68FC6&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=welcome+to+my+little+corner+of+github+%F0%9F%8E%80;powered+by+coffee%2C+curiosity+%26+chaos;turning+bugs+into+features+since+day+1;let's+build+something+cute+%26+functional"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&amp;size=26&amp;duration=3200&amp;pause=1100&amp;color=C68FC6&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=welcome+to+my+little+corner+of+github+%F0%9F%8E%80;powered+by+coffee%2C+curiosity+plus+chaos;turning+bugs+into+features+since+day+1;let's+build+something+cute+and+functional"/>
 
 <br/>
 
