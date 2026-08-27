@@ -154,7 +154,7 @@
 
 <br/>
 
-<h2 align="center">🎀 the contribution snake, but make it cute 🎀</h2>
+<h2 align="center">🎀 My Cutie snake 🎀</h2>
 
 <div align="center">
 
