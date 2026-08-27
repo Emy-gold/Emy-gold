@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFD6E8,50:FF7D29,100:E0BBE4&text=Hi%20there,%20I'm%20Iman!&fontSize=40&fontColor=FFF6B7&animation=fadeIn&fontAlignY=38&desc=Building%20backend%20systems%20with%20a%20touch%20of%20AI&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F5E1DA,50:D8A7B1,100:9CAF88&text=Iman%20%E2%80%94%20Emy&fontSize=42&fontColor=3A2E39&animation=fadeIn&fontAlignY=36&desc=cultivating%20backend%20systems%2C%20one%20commit%20at%20a%20time&descAlignY=56&descSize=17&descColor=3A2E39"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF7D29&center=true&vCenter=true&width=750&lines=%F0%9F%8C%B1+Java+%2F+Spring+Boot+Developer;%E2%9A%99%EF%B8%8F+Backend+%26+API+Engineer;%F0%9F%A4%96+AI+%26+Big+Data+Student;%E2%9C%A8+Building+Modern+Applications;%F0%9F%93%9A+Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1100&color=9CAF88&center=true&vCenter=true&width=760&lines=%F0%9F%8C%B1+planting+Spring+Boot+services;%F0%9F%8D%83+pruning+messy+ideas+into+clean+APIs;%F0%9F%A4%96+grafting+AI+onto+backend+roots;%E2%98%95+watered+daily+with+coffee"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Emy-gold&style=for-the-badge&color=FF7D29&label=PROFILE+VIEWS+%F0%9F%91%80"/>&nbsp;
-<a href="https://www.linkedin.com/in/iman-el-garate-520662277/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:imanelgarate@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<sub>🌿 ─────────────────────────────────────────── 🌿</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Emy-gold&style=flat-square&color=9CAF88&label=visitors+to+the+greenhouse"/>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iman-el-garate-520662277/"><img src="https://img.shields.io/badge/LinkedIn-3A2E39?style=flat-square&logo=linkedin&logoColor=D8A7B1"/></a>&nbsp;&nbsp;
+<a href="mailto:imanelgarate@gmail.com"><img src="https://img.shields.io/badge/Email-3A2E39?style=flat-square&logo=gmail&logoColor=D8A7B1"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=30&section=header"/>
-
-## 🌸 About Me
+## 🌿 The Greenhouse
 
 ```yaml
 name: "Iman EL GARAT"
@@ -29,18 +31,17 @@ role:
 education:
   degree: "Engineering Degree in Computer Science — Big Data & AI"
 
-focus:
+rooted_in:
   - 🌱 Backend Development
   - 🍃 Spring Boot Applications
   - 🔌 REST API Design
   - 🗃️  Database Architecture
   - 🧠 Artificial Intelligence Integration
 
-currently_learning:
+currently_grafting:
   - 🍀 Advanced Spring Boot
   - 🔐 Spring Security
-  - 🐳 Docker
-  - ☸️  Kubernetes
+  - 🐳 Docker & ☸️ Kubernetes
   - 🤖 Machine Learning
   - ☁️  Cloud Technologies
 
@@ -51,76 +52,54 @@ goal: "Building scalable applications powered by intelligent systems 💫"
 > Currently deep in backend land, sprinkling a bit of AI magic on top. ✨
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=B98CCE&center=true&vCenter=true&width=600&lines=%E2%98%95+fueled+by+coffee+and+curiosity;%F0%9F%90%9B+turning+bugs+into+features+since+day+1;%F0%9F%8C%B8+coding+with+a+little+bit+of+sparkle"/>
+<sub>🌿 ─────────────────────────────────────────── 🌿</sub>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=30&section=header"/>
+## 🌱 What's Growing
 
-## 🎀 Tech Stack
-
-<div align="center">
-
-**⚙️ Backend**
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-**🗄️ Database**
-<p>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-**🌷 AI & Data Science**
-<p>
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-**🎨 Frontend**
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-**🐳 DevOps**
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=30&section=header"/>
-
-## 🌼 Featured Project
-
-<div align="center">
 <table>
+<tr><td width="150"><b>⚙️ Backend</b></td><td>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td></tr>
+<tr><td><b>🗄️ Database</b></td><td>
+
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
+</td></tr>
+<tr><td><b>🌷 AI & Data</b></td><td>
+
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+</td></tr>
+<tr><td><b>🎨 Frontend</b></td><td>
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td></tr>
+<tr><td><b>🐳 DevOps</b></td><td>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+</td></tr>
+</table>
+
+<br/>
+
+## 🌷 A Bloom Worth Noting
+
+<table align="center">
 <tr>
 <td width="640">
 
 ### 🤖 AI Fitness Platform
-🌱 *A smart fitness platform combining software engineering and artificial intelligence.*
+*A smart fitness platform combining software engineering and artificial intelligence.*
 
-**Built with:** Spring Boot · Angular · Docker · Kubernetes · PostgreSQL
+**Rooted in:** Spring Boot · Angular · Docker · Kubernetes · PostgreSQL
 
-**✨ Highlights**
 - 🔐 JWT authentication
 - 👥 Role-based authorization
 - 🏋️ Fitness management
@@ -130,33 +109,26 @@ goal: "Building scalable applications powered by intelligent systems 💫"
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=30&section=header"/>
-
-## 🪴 Learning Roadmap
+## 🍃 Growth Rings
 
 <div align="center">
 
-```
-🌱 Backend Engineering  →  🍃 Advanced Spring Boot  →  🏗️ System Design
-        │
-        ▼
-🐳 Docker & Kubernetes  →  ☁️ Cloud Technologies  →  🤖 Machine Learning
-        │
-        ▼
-✨ AI-Powered Applications
-```
+`🌱 Backend Engineering` → `🍃 Advanced Spring Boot` → `🏗️ System Design`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+`🐳 Docker & Kubernetes` → `☁️ Cloud Technologies` → `🤖 Machine Learning` → `✨ AI-Powered Apps`
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=30&section=header"/>
+<div align="center"><sub>🌿 ─────────────────────────────────────────── 🌿</sub></div>
 
-## 📊 GitHub Activity
+<br/>
+
+## 📊 Field Notes
 
 <div align="center">
 
@@ -165,17 +137,15 @@ goal: "Building scalable applications powered by intelligent systems 💫"
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emy-gold&theme=tokyo-night&hide_border=true&radius=10&area=true&bg_color=0d1117&custom_title=Emy's%20Activity%20Graph" width="95%"/>
+<img src="https://ghchart.rshah.org/d8a7b1/Emy-gold" width="95%" alt="Emy's contribution calendar"/>
 
 </div>
 
-> 💡 The activity graph above pulls live from a shared community server, so on rare occasions it can be slow to render or briefly cache a stale image if that server is under heavy load — refreshing the page usually fixes it. If it ever goes fully dark for you, the reliable long-term fix is self-hosting it with the project's own GitHub Actions workflow (the same pattern already used for the contribution snake below), which regenerates the SVG on a schedule instead of depending on the live endpoint.
+<sub>🌸 The calendar above renders from a small, single-purpose service that's been stable for years and needs no API key or hosting — swapped in on purpose instead of the old activity-graph widget, whose shared free server occasionally gets rate-capped and returns errors like `402`.</sub>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=30&section=header"/>
-
-## 🐍 Contribution Snake
+## 🐍 The Vine
 
 <div align="center">
 
@@ -189,18 +159,20 @@ goal: "Building scalable applications powered by intelligent systems 💫"
 
 <br/>
 
-## 💌 Let's Connect
-
 <div align="center">
 
-<a href="mailto:imanelgarate@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/iman-el-garate-520662277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Emy-gold"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<sub>🌿 ─────────────────────────────────────────── 🌿</sub>
 
 <br/><br/>
 
-### 🌷 Build · Learn · Improve · Repeat 🌷
+<a href="mailto:imanelgarate@gmail.com"><img src="https://img.shields.io/badge/Email-3A2E39?style=for-the-badge&logo=gmail&logoColor=D8A7B1"/></a>
+<a href="https://www.linkedin.com/in/iman-el-garate-520662277/"><img src="https://img.shields.io/badge/LinkedIn-3A2E39?style=for-the-badge&logo=linkedin&logoColor=D8A7B1"/></a>
+<a href="https://github.com/Emy-gold"><img src="https://img.shields.io/badge/GitHub-3A2E39?style=for-the-badge&logo=github&logoColor=D8A7B1"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer"/>
+<br/><br/>
+
+### 🌷 grow · build · repeat 🌷
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9CAF88,100:D8A7B1&section=footer"/>
 
 </div>
