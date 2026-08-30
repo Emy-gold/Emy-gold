@@ -142,7 +142,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emy-gold&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=15" width="49%" alt="Emy's most used languages"/>
+<img src="https://raw.githubusercontent.com/Emy-gold/Emy-gold/output/top-langs.svg" width="49%" alt="Emy's most used languages"/>
 
 <br/><br/>
 
