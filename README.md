@@ -142,7 +142,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Emy-gold/Emy-gold/output/top-langs.svg" width="49%" alt="Emy's most used languages"/>
+<img src="https://raw.githubusercontent.com/Emy-gold/Emy-gold/main/output/top-langs.svg" width="49%" alt="Emy's most used languages"/>
 
 <br/><br/>
 
