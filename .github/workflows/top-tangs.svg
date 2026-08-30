@@ -1,0 +1,32 @@
+name: Update top languages card
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v6
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Emy-gold&layout=compact&theme=tokyonight&hide_border=true&border_radius=15
+          path: output/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/top-langs.svg
+          git diff --cached --quiet || git commit -m "chore: update top languages card"
+          git push
