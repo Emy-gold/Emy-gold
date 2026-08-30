@@ -142,7 +142,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emy-gold&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;bg_color=1a1023&amp;color=e8a5c9&amp;line=e8a5c9&amp;point=ffe5ec" width="95%" alt="Emy's commits-over-days activity graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emy-gold&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=15" width="49%" alt="Emy's most used languages"/>
 
 <br/><br/>
 
