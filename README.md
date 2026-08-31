@@ -30,7 +30,7 @@
 ```yaml
 ✧ name: Iman EL GARAT (aka Emy 🌟)
 ✧ studying: Big Data & AI Engineering
-✧ currently: 4th-year CS engineering student
+✧ currently: 5th-year CS engineering student
 ✧ obsessed with: clean APIs & pretty commit graphs
 ✧ playlist: lofi + something loud when debugging
 ✧ mood: ✨ building things that (mostly) work ✨
