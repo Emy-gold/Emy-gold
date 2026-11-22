@@ -1,187 +1,158 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;height=210&amp;color=0:FFE5EC,50:E8C7E6,100:C9A9DE&amp;text=hi,%20i'm%20emy!&amp;fontSize=46&amp;fontColor=5A3E5C&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=backend%20dev%20%E2%9C%A8%20ai%20plus%20big%20data%20student%20%E2%9C%A8%20serial%20debugger&amp;descAlignY=58&amp;descSize=16&amp;descColor=5A3E5C"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:FFF0F5,45:E6D5F5,100:C8B6E2&text=Iman%20El%20Garat&fontSize=43&fontColor=594568&fontAlignY=40&desc=software%20engineering%20%7C%20big%20data%20%26%20AI&descSize=15&descColor=795F83&descAlignY=62&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&amp;size=26&amp;duration=3200&amp;pause=1100&amp;color=C68FC6&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=welcome+to+my+little+corner+of+github+%F0%9F%8E%80;powered+by+coffee%2C+curiosity+plus+chaos;turning+bugs+into+features+since+day+1;let's+build+something+cute+and+functional"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=B58ABF&center=true&vCenter=true&width=650&lines=building+with+curiosity+and+purpose;backend+development+%26+artificial+intelligence;learning%2C+experimenting%2C+evolving"/>
 
 <br/>
 
-⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ˚✩ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ˚✩ ⋆｡ﾟ☁︎｡⋆
+<a href="https://www.linkedin.com/in/iman-el-garate-520662277/"><img src="https://img.shields.io/badge/LinkedIn-EADCF2?style=flat-square&logo=linkedin&logoColor=75548A"/></a>
+<a href="mailto:imanelgarate@gmail.com"><img src="https://img.shields.io/badge/Email-F8E3EC?style=flat-square&logo=gmail&logoColor=A66C89"/></a>
+<a href="https://github.com/Emy-gold"><img src="https://img.shields.io/badge/GitHub-E9E1F0?style=flat-square&logo=github&logoColor=594568"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Emy-gold&amp;style=for-the-badge&amp;color=E8C7E6&amp;label=✨+VISITORS+✨"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/iman-el-garate-520662277/"><img src="https://img.shields.io/badge/let's%20connect-FFB6C1?style=for-the-badge&amp;logo=linkedin&amp;logoColor=5A3E5C&amp;labelColor=F8E1EE"/></a>
-<a href="mailto:imanelgarate@gmail.com"><img src="https://img.shields.io/badge/say%20hi-E6C6E8?style=for-the-badge&amp;logo=gmail&amp;logoColor=5A3E5C&amp;labelColor=F8E1EE"/></a>
-<a href="https://github.com/Emy-gold"><img src="https://img.shields.io/badge/follow%20along-C9A9DE?style=for-the-badge&amp;logo=github&amp;logoColor=5A3E5C&amp;labelColor=F8E1EE"/></a>
+<img src="https://komarev.com/ghpvc/?username=Emy-gold&style=flat-square&color=C8A2C8&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+---
 
-<h2 align="center">🎀 a lil' bit about me 🎀</h2>
+<h2 align="center">01 — A little about me</h2>
 
-<table align="center">
-<tr><td>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```yaml
-✧ name: Iman EL GARAT (aka Emy 🌟)
-✧ studying: Big Data & AI Engineering
-✧ currently: 5th-year CS engineering student
-✧ obsessed with: clean APIs & pretty commit graphs
-✧ playlist: lofi + something loud when debugging
-✧ mood: ✨ building things that (mostly) work ✨
-```
+### Hello, I'm Emy.
 
-</td></tr>
+I'm a fifth-year Computer Science Engineering student specializing in **Big Data & Artificial Intelligence**.
+
+I enjoy understanding how things work, designing backend systems, exploring data, and turning ideas into functional applications.
+
+- Currently exploring: Machine Learning & Data Engineering
+- Interested in: Backend Architecture, AI & Big Data
+- Building: Full-stack applications and data projects
+- Belief: Understand the fundamentals before writing the code.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ6b2t5aW1mM2V3Z2F3bW5xZ2F4b2R5eGZ4dGZ6b2t5aW1mM2V3/13HgwGsXF0aiGY/giphy.gif" width="180"/>
+
+*curiosity is my favorite tool.*
+
+</td>
+</tr>
 </table>
 
+---
+
+<h2 align="center">02 — Technology & tools</h2>
+
+<h3>Backend development</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,hibernate&theme=light"/>
+</p>
+
+<h3>Data & AI</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy&theme=light"/>
+</p>
+
+<h3>Databases</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,oracle&theme=light"/>
+</p>
+
+<h3>Frontend development</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css,tailwind&theme=light"/>
+</p>
+
+<h3>DevOps & tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vscode,idea&theme=light"/>
+</p>
+
+---
+
+<h2 align="center">03 — Selected project</h2>
+
 <div align="center">
 
-> 💌 *dear diary, today i turned another messy idea into working code.*
-> *backend by day, sprinkling ai magic by night. still learning, still growing 🌷*
+### AI Fitness Platform
+
+*A smart fitness management platform combining software engineering and AI.*
+
+<img src="https://img.shields.io/badge/Spring%20Boot-E8F3E8?style=flat-square&logo=springboot&logoColor=54815B"/>
+<img src="https://img.shields.io/badge/Angular-F8E3EC?style=flat-square&logo=angular&logoColor=B45C80"/>
+<img src="https://img.shields.io/badge/Docker-E1EDF9?style=flat-square&logo=docker&logoColor=4682B4"/>
+<img src="https://img.shields.io/badge/Kubernetes-E8E4F8?style=flat-square&logo=kubernetes&logoColor=6658A6"/>
+<img src="https://img.shields.io/badge/PostgreSQL-E1EDF9?style=flat-square&logo=postgresql&logoColor=4682B4"/>
 
 </div>
 
-<div align="center">
+- Role-based access control and JWT authentication.
+- Fitness and club management.
+- Coach and client management.
+- Progress tracking.
+- AI-assisted fitness features.
 
-`🌱 backend dev` · `🍃 spring boot girlie` · `🤖 ai & big data nerd` · `☕ perpetually caffeinated`
+---
 
-</div>
-
-<br/>
-
-<div align="center">⋆｡ﾟ✩ 　 ˚｡⋆ 　 ✩ﾟ｡⋆ 　 ˚✩ 　⋆｡ﾟ✩</div>
-
-<br/>
-
-<h2 align="center">🧸 my tech shelf 🧸</h2>
-
-<div align="center">
-<sub>everything i reach for when building something new</sub>
-</div>
-<br/>
-
-<table align="center">
-<tr><td align="center" width="130">💌<br/><b>backend</b></td><td align="center">
-
-<img src="https://img.shields.io/badge/Java-FFD1DC?style=for-the-badge&amp;logo=openjdk&amp;logoColor=5A3E5C"/> <img src="https://img.shields.io/badge/Spring_Boot-D8F3DC?style=for-the-badge&amp;logo=springboot&amp;logoColor=3A5A40"/> <img src="https://img.shields.io/badge/Spring_Security-D8F3DC?style=for-the-badge&amp;logo=springsecurity&amp;logoColor=3A5A40"/> <img src="https://img.shields.io/badge/Hibernate-E8DFF5?style=for-the-badge&amp;logo=hibernate&amp;logoColor=5A3E5C"/> <img src="https://img.shields.io/badge/Python-FFF3B0?style=for-the-badge&amp;logo=python&amp;logoColor=6B5B00"/>
-
-</td></tr>
-<tr><td align="center">🗂️<br/><b>databases</b></td><td align="center">
-
-<img src="https://img.shields.io/badge/MySQL-B5EAEA?style=for-the-badge&amp;logo=mysql&amp;logoColor=1B4965"/> <img src="https://img.shields.io/badge/PostgreSQL-CDE7F0?style=for-the-badge&amp;logo=postgresql&amp;logoColor=1B4965"/> <img src="https://img.shields.io/badge/SQL_Server-FFD6D6?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=7A1F1F"/> <img src="https://img.shields.io/badge/Oracle-F5D6BA?style=for-the-badge&amp;logo=oracle&amp;logoColor=7A3E1F"/>
-
-</td></tr>
-<tr><td align="center">🪄<br/><b>ai & data</b></td><td align="center">
-
-<img src="https://img.shields.io/badge/Machine_Learning-FADADD?style=for-the-badge&amp;logoColor=5A3E5C"/> <img src="https://img.shields.io/badge/Scikit_Learn-FADADD?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=5A3E5C"/> <img src="https://img.shields.io/badge/Pandas-E8C7E6?style=for-the-badge&amp;logo=pandas&amp;logoColor=5A3E5C"/> <img src="https://img.shields.io/badge/NumPy-E8C7E6?style=for-the-badge&amp;logo=numpy&amp;logoColor=5A3E5C"/>
-
-</td></tr>
-<tr><td align="center">🎨<br/><b>frontend</b></td><td align="center">
-
-<img src="https://img.shields.io/badge/Angular-FFB6C1?style=for-the-badge&amp;logo=angular&amp;logoColor=5A3E5C"/> <img src="https://img.shields.io/badge/React-C9A9DE?style=for-the-badge&amp;logo=react&amp;logoColor=5A3E5C"/> <img src="https://img.shields.io/badge/TailwindCSS-B5EAEA?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=1B4965"/> <img src="https://img.shields.io/badge/JavaScript-FFF3B0?style=for-the-badge&amp;logo=javascript&amp;logoColor=6B5B00"/>
-
-</td></tr>
-<tr><td align="center">🐳<br/><b>devops</b></td><td align="center">
-
-<img src="https://img.shields.io/badge/Docker-CDE7F0?style=for-the-badge&amp;logo=docker&amp;logoColor=1B4965"/> <img src="https://img.shields.io/badge/Kubernetes-E8DFF5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=5A3E5C"/> <img src="https://img.shields.io/badge/Linux-FFF3B0?style=for-the-badge&amp;logo=linux&amp;logoColor=6B5B00"/> <img src="https://img.shields.io/badge/Git-FFD6D6?style=for-the-badge&amp;logo=git&amp;logoColor=7A1F1F"/>
-
-</td></tr>
-</table>
-
-<br/>
-
-<div align="center">⋆｡ﾟ✩ 　 ˚｡⋆ 　 ✩ﾟ｡⋆ 　 ˚✩ 　⋆｡ﾟ✩</div>
-
-<br/>
-
-<h2 align="center">💐 my favorite creation 💐</h2>
-
-<table align="center"><tr><td width="640">
+<h2 align="center">04 — GitHub activity</h2>
 
 <div align="center">
 
-### 🤖 AI Fitness Platform
-*a smart fitness platform, part software engineering, part ai magic ✨*
-
-**made with:** Spring Boot 🍃 · Angular 🅰️ · Docker 🐳 · Kubernetes ☸️ · PostgreSQL 🐘
-
-</div>
-
-🔐 JWT authentication &nbsp;·&nbsp; 👥 role-based authorization &nbsp;·&nbsp; 🏋️ fitness management
-📊 progress tracking &nbsp;·&nbsp; 🐳 fully containerized
-
-</td></tr></table>
-
-<br/>
-
-<h2 align="center">🦋 how i'm growing 🦋</h2>
-
-<div align="center">
-
-`🌱 backend basics` ✿ `🍃 advanced spring boot` ✿ `🏗️ system design` ✿ `🐳 docker & k8s` ✿ `☁️ cloud` ✿ `🤖 machine learning` ✿ `✨ ai-powered apps`
-
-</div>
-
-<br/>
-
-<div align="center">⋆｡ﾟ✩ 　 ˚｡⋆ 　 ✩ﾟ｡⋆ 　 ˚✩ 　⋆｡ﾟ✩</div>
-
-<br/>
-
-<h2 align="center">📓 my little stats diary 📓</h2>
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Emy-gold&amp;show_icons=true&amp;theme=tokyonight&amp;border_radius=15&amp;hide_border=true" width="49%"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Emy-gold&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=15" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Emy-gold&show_icons=true&hide_border=true&bg_color=FFF9FC&title_color=9B75AC&icon_color=C28BAE&text_color=68566F" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Emy-gold&hide_border=true&background=FFF9FC&ring=C28BAE&fire=D99BB8&currStreakLabel=9B75AC&sideLabels=9B75AC&dates=9A899E&sideNums=68566F&currStreakNum=68566F" width="49%"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Emy-gold/Emy-gold/main/output/top-langs.svg" width="49%" alt="Emy's most used languages"/>
+<img src="https://raw.githubusercontent.com/Emy-gold/Emy-gold/main/output/top-langs.svg" width="55%" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/e8a5c9/Emy-gold" width="95%" alt="Emy's contribution garden"/>
+<img src="https://ghchart.rshah.org/c28bae/Emy-gold" width="95%" alt="Contribution graph"/>
 
 </div>
 
-<div align="center"><sub>🌸 my favorite anime girls are Maomao and Aniya,Yes i'm an anime lover.🌸</sub></div>
+---
 
-<br/>
-
-<h2 align="center">🎀 My Cutie snake 🎀</h2>
+<h2 align="center">05 — Currently growing</h2>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emy-gold/Emy-gold/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emy-gold/Emy-gold/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Emy-gold/Emy-gold/output/github-snake.svg" width="90%"/>
-</picture>
+`01. Advanced Java & Spring Boot`
+
+`02. Data Engineering & ETL`
+
+`03. SQL & Database Architecture`
+
+`04. Machine Learning`
+
+`05. Docker, Kubernetes & Cloud`
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ˚✩ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ˚✩ ⋆｡ﾟ☁︎｡⋆
+<h3>Beyond the terminal</h3>
 
-<br/><br/>
+Anime enthusiast · Astronomy lover · Curious mind
 
-<a href="mailto:imanelgarate@gmail.com"><img src="https://img.shields.io/badge/email-FFB6C1?style=for-the-badge&amp;logo=gmail&amp;logoColor=5A3E5C&amp;labelColor=F8E1EE"/></a>
-<a href="https://www.linkedin.com/in/iman-el-garate-520662277/"><img src="https://img.shields.io/badge/linkedin-E6C6E8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=5A3E5C&amp;labelColor=F8E1EE"/></a>
-<a href="https://github.com/Emy-gold"><img src="https://img.shields.io/badge/github-C9A9DE?style=for-the-badge&amp;logo=github&amp;logoColor=5A3E5C&amp;labelColor=F8E1EE"/></a>
+*Currently inspired by Maomao and Anya.*
 
-<br/><br/>
+<br/>
 
-### made with 💗, way too much coffee, and a little bit of chaos
-
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;height=110&amp;color=0:C9A9DE,50:E8C7E6,100:FFE5EC&amp;section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:C8B6E2,50:E6D5F5,100:FFF0F5&section=footer&text=made%20with%20curiosity%20%E2%9C%A7&fontSize=18&fontColor=594568"/>
 
 </div>
