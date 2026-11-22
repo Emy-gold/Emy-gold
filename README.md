@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:FFF0F5,45:E6D5F5,100:C8B6E2&text=Iman%20El%20Garat&fontSize=43&fontColor=594568&fontAlignY=40&desc=software%20engineering%20%7C%20big%20data%20%26%20AI&descSize=15&descColor=795F83&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFF0F5,50:E6D5F5,100:C8B6E2&text=Hi,%20I'm%20Emy!&fontSize=55&fontColor=594568&fontAlignY=38&desc=Software%20Engineer%20%7C%20Big%20Data%20%26%20AI&descSize=17&descColor=795F83&descAlignY=58&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=B58ABF&center=true&vCenter=true&width=650&lines=building+with+curiosity+and+purpose;backend+development+%26+artificial+intelligence;learning%2C+experimenting%2C+evolving"/>
 
@@ -38,8 +38,6 @@ I enjoy understanding how things work, designing backend systems, exploring data
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ6b2t5aW1mM2V3Z2F3bW5xZ2F4b2R5eGZ4dGZ6b2t5aW1mM2V3/13HgwGsXF0aiGY/giphy.gif" width="180"/>
-
 *curiosity is my favorite tool.*
 
 </td>
@@ -71,7 +69,7 @@ I enjoy understanding how things work, designing backend systems, exploring data
 <h3>Frontend development</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css,tailwind&theme=light"/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=light"/>
 </p>
 
 <h3>DevOps & tools</h3>
@@ -91,7 +89,7 @@ I enjoy understanding how things work, designing backend systems, exploring data
 *A smart fitness management platform combining software engineering and AI.*
 
 <img src="https://img.shields.io/badge/Spring%20Boot-E8F3E8?style=flat-square&logo=springboot&logoColor=54815B"/>
-<img src="https://img.shields.io/badge/Angular-F8E3EC?style=flat-square&logo=angular&logoColor=B45C80"/>
+<img src="https://img.shields.io/badge/React-F8E3EC?style=flat-square&logo=react&logoColor=B45C80"/>
 <img src="https://img.shields.io/badge/Docker-E1EDF9?style=flat-square&logo=docker&logoColor=4682B4"/>
 <img src="https://img.shields.io/badge/Kubernetes-E8E4F8?style=flat-square&logo=kubernetes&logoColor=6658A6"/>
 <img src="https://img.shields.io/badge/PostgreSQL-E1EDF9?style=flat-square&logo=postgresql&logoColor=4682B4"/>
@@ -153,6 +151,6 @@ Anime enthusiast · Astronomy lover · Curious mind
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:C8B6E2,50:E6D5F5,100:FFF0F5&section=footer&text=made%20with%20curiosity%20%E2%9C%A7&fontSize=18&fontColor=594568"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C8B6E2,50:E6D5F5,100:FFF0F5&section=footer&text=made%20with%20curiosity%20%E2%9C%A7&fontSize=18&fontColor=594568&animation=fadeIn"/>
 
 </div>
