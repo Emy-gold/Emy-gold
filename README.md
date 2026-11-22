@@ -44,7 +44,7 @@ I enjoy understanding how things work, designing backend systems, exploring data
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="assets/curiosity.gif" width="240" alt="Animated pastel night sky with planets orbiting a crescent moon"/>
+<img src="curiosity.gif" width="240" alt="Animated pastel night sky with planets orbiting a crescent moon"/>
 
 <br/>
 
