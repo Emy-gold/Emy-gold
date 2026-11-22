@@ -1,52 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:FFF0F5,50:E6D5F5,100:C8B6E2&amp;text=Hi,%20I'm%20Emy!&amp;fontSize=55&amp;fontColor=594568&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Big%20Data%20and%20AI&amp;descSize=17&amp;descColor=795F83&amp;descAlignY=58&amp;animation=fadeIn" width="100%" alt="Hi, I'm Emy - Software Engineer, Big Data and AI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:FFE4EF,45:E8D8F7,100:C9B8E8&amp;text=Emy%20El%20Garate&amp;fontSize=52&amp;fontColor=5B4670&amp;fontAlignY=36&amp;desc=%E2%9C%A7%20Software%20Engineer%20%C2%B7%20Big%20Data%20and%20AI%20%C2%B7%20Stargazer%20%E2%9C%A7&amp;descSize=17&amp;descColor=7B5F8C&amp;descAlignY=58&amp;animation=fadeIn" width="100%" alt="Emy El Garate - Software Engineer, Big Data and AI"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=B58ABF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=building+with+curiosity+and+purpose;backend+development+and+artificial+intelligence;learning%2C+experimenting%2C+evolving" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;size=20&amp;duration=3200&amp;pause=1000&amp;color=B58ABF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=turning+data+into+discoveries;where+code+meets+the+cosmos;curious+by+nature%2C+engineer+by+design;learning%2C+experimenting%2C+evolving" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/iman-el-garate-520662277/"><img src="https://img.shields.io/badge/LinkedIn-EADCF2?style=flat-square&amp;logo=linkedin&amp;logoColor=75548A" alt="LinkedIn"/></a>
-<a href="mailto:imanelgarate@gmail.com"><img src="https://img.shields.io/badge/Email-F8E3EC?style=flat-square&amp;logo=gmail&amp;logoColor=A66C89" alt="Email"/></a>
-<a href="https://github.com/Emy-gold"><img src="https://img.shields.io/badge/GitHub-E9E1F0?style=flat-square&amp;logo=github&amp;logoColor=594568" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/iman-el-garate-520662277/"><img src="https://img.shields.io/badge/LinkedIn-EADCF2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=75548A" alt="LinkedIn"/></a>
+<a href="mailto:imanelgarate@gmail.com"><img src="https://img.shields.io/badge/Email-F8E3EC?style=for-the-badge&amp;logo=gmail&amp;logoColor=A66C89" alt="Email"/></a>
+<a href="https://github.com/Emy-gold"><img src="https://img.shields.io/badge/GitHub-E9E1F0?style=for-the-badge&amp;logo=github&amp;logoColor=594568" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Emy-gold&amp;style=flat-square&amp;color=C8A2C8&amp;label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Emy-gold&amp;style=flat-square&amp;color=C8A2C8&amp;label=VISITORS+IN+THE+OBSERVATORY" alt="Profile views"/>
+
+<br/><br/>
+
+⋆ ˚｡⋆୨୧˚ ✧ ˚୨୧⋆｡˚ ⋆
 
 </div>
 
 ---
 
-<h2 align="center">01 · About me</h2>
+<h2 align="center">✧ Abstract ✧</h2>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 ### Hello, I'm Emy.
 
-I'm a Computer Science Engineering student specializing in **Big Data and Artificial Intelligence**. I like understanding how things work, designing backend systems, exploring data, and turning ideas into working applications.
+I'm a Computer Science Engineering student specializing in **Big Data and Artificial Intelligence**.
 
-- **Currently exploring:** Machine Learning and Data Engineering
-- **Interested in:** Backend architecture, AI and Big Data
-- **Building:** Full-stack applications and data projects
-- **Belief:** Understand the fundamentals before writing the code.
+I love the moment a messy dataset starts to make sense, when a pattern appears out of noise, like a constellation emerging from scattered stars. I design backend systems, explore data, and turn ideas into working software.
+
+> *Hypothesis: understand the fundamentals first, and the code follows.*
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="38%" valign="middle" align="center">
 
-*curiosity is my favorite tool.*
+**Field of study**
+
+Backend Architecture<br/>
+Machine Learning<br/>
+Data Engineering<br/>
+Applied AI
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-<h2 align="center">02 · Tech stack</h2>
+<h2 align="center">⚗ The Lab Kit</h2>
 
 <div align="center">
+
+*Tools I reach for at the bench.*
+
+<br/>
 
 **Backend**
 
@@ -72,41 +88,29 @@ I'm a Computer Science Engineering student specializing in **Big Data and Artifi
 
 ---
 
-<h2 align="center">03 · Selected projects</h2>
+<h2 align="center">☾ Experiments in progress</h2>
 
 <div align="center">
 
-### AI Fitness Platform
-
-*A smart fitness management platform combining software engineering and AI.*
-
-<img src="https://img.shields.io/badge/Spring%20Boot-E8F3E8?style=flat-square&amp;logo=springboot&amp;logoColor=54815B" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/React-F8E3EC?style=flat-square&amp;logo=react&amp;logoColor=B45C80" alt="React"/>
-<img src="https://img.shields.io/badge/Docker-E1EDF9?style=flat-square&amp;logo=docker&amp;logoColor=4682B4" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-E8E4F8?style=flat-square&amp;logo=kubernetes&amp;logoColor=6658A6" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/PostgreSQL-E1EDF9?style=flat-square&amp;logo=postgresql&amp;logoColor=4682B4" alt="PostgreSQL"/>
+| | Experiment | Status |
+|:-:|:--|:--|
+| ✧ | Advanced Java and Spring Boot | deepening |
+| ✧ | Data Engineering and ETL pipelines | exploring |
+| ✧ | SQL and database architecture | refining |
+| ✧ | Machine Learning | observing patterns |
+| ✧ | Docker, Kubernetes and Cloud | scaling up |
 
 </div>
 
-- Role-based access control with JWT authentication
-- Fitness and club management
-- Coach and client management
-- Progress tracking
-- AI-assisted fitness features
-
-<br/>
-
-| Project | Stack | What it does |
-|---|---|---|
-| **Smart Sport App** | Spring Boot, Angular, Docker, Kubernetes, Azure | Team project with an AI model, deployed to the cloud |
-| **Smart Inventory and Order Management** | Angular, ASP.NET Core Web API | Inventory and order workflow system |
-| **GesPlanta** | .NET 8, ASP.NET Core MVC | HR and plant management system |
-
 ---
 
-<h2 align="center">04 · GitHub activity</h2>
+<h2 align="center">🔭 The Observatory</h2>
 
 <div align="center">
+
+*My activity, charted like a night sky.*
+
+<br/>
 
 <img src="https://github-stats-extended.vercel.app/api?username=Emy-gold&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFF9FC&amp;title_color=9B75AC&amp;icon_color=C28BAE&amp;text_color=68566F" width="49%" alt="GitHub stats"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Emy-gold&amp;hide_border=true&amp;background=FFF9FC&amp;ring=C28BAE&amp;fire=D99BB8&amp;currStreakLabel=9B75AC&amp;sideLabels=9B75AC&amp;dates=9A899E&amp;sideNums=68566F&amp;currStreakNum=68566F" width="49%" alt="GitHub streak"/>
@@ -123,19 +127,9 @@ I'm a Computer Science Engineering student specializing in **Big Data and Artifi
 
 ---
 
-<h2 align="center">05 · Currently growing</h2>
+<h2 align="center">✦ Field notes</h2>
 
 <div align="center">
-
-`Advanced Java and Spring Boot` · `Data Engineering and ETL` · `SQL and Database Architecture` · `Machine Learning` · `Docker, Kubernetes and Cloud`
-
-</div>
-
----
-
-<div align="center">
-
-<h3>Beyond the terminal</h3>
 
 Anime enthusiast · Astronomy lover · Curious mind
 
@@ -143,6 +137,14 @@ Anime enthusiast · Astronomy lover · Curious mind
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:C8B6E2,50:E6D5F5,100:FFF0F5&amp;section=footer&amp;text=made%20with%20curiosity%20%E2%9C%A7&amp;fontSize=18&amp;fontColor=594568&amp;animation=fadeIn" width="100%" alt=""/>
+> *"We are made of star-stuff."* · Carl Sagan
+
+<br/>
+
+⋆ ˚｡⋆୨୧˚ ✧ ˚୨୧⋆｡˚ ⋆
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=130&amp;color=0:C9B8E8,50:E8D8F7,100:FFE4EF&amp;section=footer&amp;text=made%20with%20curiosity%20and%20stardust&amp;fontSize=18&amp;fontColor=5B4670&amp;animation=fadeIn" width="100%" alt=""/>
 
 </div>
